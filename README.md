@@ -28,5 +28,5 @@ Note:  This section is the most likely to fail the review cycle.  Please review 
 
 ## License
 Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.
-This file is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE file](./SAP Sample Code License Agreement v1.0.docx).
+This file is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE file](LicenseAgreement.docx).
 
