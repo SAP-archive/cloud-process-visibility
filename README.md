@@ -27,8 +27,6 @@ The installation instructions should be bootstrap instructions, in other words, 
 Note:  This section is the most likely to fail the review cycle.  Please review carefully.
 
 ## License
-The following text should appear in the license section.  
-
 Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.
-This file is licensed under the SAP Sample Code License except as noted otherwise in the LICENSE file [include link to the LICENSE file in your project repository].
+This file is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE file](./SAP Sample Code License Agreement v1.0.docx).
 
