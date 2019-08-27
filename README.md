@@ -13,26 +13,25 @@ The following SAP Cloud Platform Services are needed to run the project
 * Applicaiton Runtime
 * SAP WebIDE
 
-To set up the requirements please go over the tutorials <service instace>, <assign roles> 
+To set up the requirements please go over the tutorials <Tarun do-to: service instace>, <Tarun do-to: assign roles> 
 
 
 ## Download and Installation
 
 ### Integrate Process Visibility UI Applications in SAP Fiori Launchpad 
-* Import project [FLPConfigForPVS](/releases/download/1.0.0/FLPConfigForPVS.zip) into SAP WebIDE
-* Build & Deploy it into your space
+1. Import project [FLPConfigForPVS](/releases/download/1.0.0/FLPConfigForPVS.zip) into SAP WebIDE for more details see [import project](some web ide link)
+2. Build & Deploy it into your space for more details see [Build & Deploy](some webIDE link)
 
 ### Gain insights into Lead to Cash 
-* Import Lead to Cash Scenario Model
-** Import the [Lead to Cash Scenario Model](/releases/download/1.0.0/LeadToCashScenarioModel.zip) into the Configure Business Scenario Applicaiton in Process Visibility for more details see [Import Events](specific location)
-** Activate Scenario
-* Import the [Lead to Cash Events](/releases/download/1.0.0/LeadToCashEvents.json) into the Event Acquisition Application in Platform Process Visibility see [Import Business Scenario](specific location)
+1. Import the [Lead to Cash Events](/releases/download/1.0.0/LeadToCashEvents.json) into the Event Acquisition Application in Platform Process Visibility see [Import Events](specific location)
+2. Import the [Lead to Cash Scenario Model](/releases/download/1.0.0/LeadToCashScenarioModel.zip) into the Configure Business Scenario Applicaiton in Process Visibility for more details see [Import Events](specific location)
+3. Activate Scenario for more details see [Activate Business Scenario](specific location)
 
 ### Gain insights into Lead to Cash 
-* Import Lead to Cash Scenario Model
-** Import the [Design to Operate Scenario Model](/releases/download/1.0.0/DesignToOperateScenarioModel.zip) into the Configure Business Scenario Applicaiton in Process Visibility for more details see [Import Business Scenario](specific location)
-** Activate Scenario
-* Import the [Design to Operate Events](/releases/download/1.0.0/EmployeeOnboardingEvents.json) into the Event Acquisition Application in Platform Process Visibility see [Import Events](specific location)
+1. Import the [Design to Operate Events](/releases/download/1.0.0/EmployeeOnboardingEvents.json) into the Event Acquisition Application in Platform Process Visibility see [Import Events](specific location)
+2. Import the [Design to Operate Scenario Model](/releases/download/1.0.0/DesignToOperateScenarioModel.zip) into the Configure Business Scenario Applicaiton in Process Visibility for more details see [Import Business Scenario](specific location)
+3. Activate Scenario
+
 
 ## License
 Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.
