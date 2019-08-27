@@ -1,7 +1,9 @@
 # SAP Cloud Platform Process Visibility Samples
 
 ## Description
-This project contains sample code and sample scenarios that would enable you to learn more about and gain instant value using SAP Cloud Platform Process Visibility. This project is referenced by learning journeys, tutorials and blogs and it contains:
+This project contains sample code and sample scenarios that would enable you to learn more about and gain instant value using SAP Cloud Platform Process Visibility. This project is referenced by learning journeys, tutorials and blogs.
+
+The project contains:
 * Sample Code to integrate SAP Cloud Platform UI Applications into SAP Fiori Launch Pad
 * Sample Scenarios (model & events) that can be imported into the Configure Business Scenario and Event Acquistion Application in Process Visibility 
 
