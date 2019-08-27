@@ -1,4 +1,4 @@
-# SAP Cloud Platform Process Visibility Samples & Fiori Launchpad Integration Content
+# SAP Cloud Platform Process Visibility Samples
 
 Description
 This project contains sample code and sample scenarios that would enable you to learn more about and gain instant value using SAP Cloud Platform Process Visibility. 
