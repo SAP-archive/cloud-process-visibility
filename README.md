@@ -1,6 +1,6 @@
 # SAP Cloud Platform Process Visibility Samples
 
-Description
+## Description
 This project contains sample code and sample scenarios that would enable you to learn more about and gain instant value using SAP Cloud Platform Process Visibility. 
 
 This project contains:
@@ -10,14 +10,14 @@ This project contains:
 This project is referenced by learning journeys, tutorials and blogs to help customers and partners to understand and gain instant value from SAP Cloud Platform Process Visibility
 
 
-Requirements
+## Requirements
 The following SAP Cloud Platform Services are needed to run the project
 * Process Visibility
 * Portal
 * Applicaiton Runtime
 * SAP WebIDE
 
-Download and Installation
+## Download and Installation
 Describe, in detail, how the project should be downloaded and installed.  
 
 The developer can assume that the user will know how to clone or download a project.  If a binary or installer is included, this should be described (and links used to the file).  
@@ -26,7 +26,7 @@ The installation instructions should be bootstrap instructions, in other words, 
 
 Note:  This section is the most likely to fail the review cycle.  Please review carefully.
 
-License
+## License
 The following text should appear in the license section.  
 
 Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.
