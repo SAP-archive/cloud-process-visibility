@@ -28,12 +28,12 @@ The following SAP Cloud Platform Services are needed to run the project
 
 ### Gain insights into Lead to Cash Sample Scenario
 1. Import the [Lead to Cash Events](/releases/download/1.0.0/LeadToCashEvents.json) into the Event Acquisition Application for more details see [Import Events](https://help.sap.com/viewer/62fd39fa3eae4046b23dba285e84bfd4/Cloud/en-US/f8f285104c6d497fb3df15e7fb415cec.html)
-2. Import the [Lead to Cash Scenario Model](/releases/download/1.0.0/LeadToCashScenarioModel.zip) into the Configure Business Scenario Applicaiton for more details see [Import Business Scenario](https://help.sap.com/viewer/62fd39fa3eae4046b23dba285e84bfd4/Cloud/en-US/df284fd12073454392c5db8913f82d81.html)
+2. Import the [Lead to Cash Scenario Model](/releases/download/1.0.0/LeadToCash.zip) into the Configure Business Scenario Applicaiton for more details see [Import Business Scenario](https://help.sap.com/viewer/62fd39fa3eae4046b23dba285e84bfd4/Cloud/en-US/df284fd12073454392c5db8913f82d81.html)
 3. Activate Scenario using the Business Scenario Configuration Application
 
 ### Gain insights into Design to Operate Sample Scenario 
-1. Import the [Design to Operate Events](/releases/download/1.0.0/EmployeeOnboardingEvents.json) into the Event Acquisition for more details see [Import Events](https://help.sap.com/viewer/62fd39fa3eae4046b23dba285e84bfd4/Cloud/en-US/f8f285104c6d497fb3df15e7fb415cec.html)
-2. Import the [Design to Operate Scenario Model](/releases/download/1.0.0/DesignToOperateScenarioModel.zip) into the Configure Business Scenario for more details see [Import Business Scenario](https://help.sap.com/viewer/62fd39fa3eae4046b23dba285e84bfd4/Cloud/en-US/df284fd12073454392c5db8913f82d81.html)
+1. Import the [Design to Operate Events](/releases/download/1.0.0/DesignToOperateEvents.json) into the Event Acquisition for more details see [Import Events](https://help.sap.com/viewer/62fd39fa3eae4046b23dba285e84bfd4/Cloud/en-US/f8f285104c6d497fb3df15e7fb415cec.html)
+2. Import the [Design to Operate Scenario Model](/releases/download/1.0.0/DesignToOperate.zip) into the Configure Business Scenario for more details see [Import Business Scenario](https://help.sap.com/viewer/62fd39fa3eae4046b23dba285e84bfd4/Cloud/en-US/df284fd12073454392c5db8913f82d81.html)
 3. Activate Scenario using the Business Scenario Configuration Application
 
 ## License
