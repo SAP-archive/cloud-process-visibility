@@ -19,8 +19,8 @@ The following SAP Cloud Platform Services are needed to run the project
 ## Download and Installation
 
 ### Set-up the pre-requisites
-1. [Create service instance of process visibility](https://developers-qa.sap.com/tutorials/cp-cf-processvisibility-setup-serviceinstance.html)
-2. [Assign process visibility roles to users](https://developers-qa.sap.com/tutorials/cp-cf-processvisibility-setup-assignroles.html)
+1. [Create service instance of process visibility](https://developers.sap.com/tutorials/cp-cf-processvisibility-setup-serviceinstance.html)
+2. [Assign process visibility roles to users](https://developers.sap.com/tutorials/cp-cf-processvisibility-setup-assignroles.html)
 
 ### Integrate Process Visibility UI Applications in SAP Fiori Launchpad 
 1. Import Project [FLPConfigForPVS](../../releases/download/1.0.0/FLPConfigForPVS.zip) into SAP WebIDE for more details see [Import Project](https://help.sap.com/viewer/825270ffffe74d9f988a0f0066ad59f0/CF/en-US/e39599b757c541beb8e50b454f8d2431.html)
