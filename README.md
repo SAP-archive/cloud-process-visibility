@@ -5,7 +5,7 @@ This project contains sample code and sample scenarios that would enable you to 
 
 The project contains:
 * Sample Code to integrate SAP Cloud Platform UI Applications into SAP Fiori Launch Pad
-* Sample Scenarios (model and events) that can be imported into the Configure Business Scenario and Event Acquistion Application in Process Visibility 
+* Sample Scenarios (model and events) that can be imported into the Configure Business Scenario and Event Acquisition Application in Process Visibility 
 
 
 ## Requirements
@@ -23,11 +23,11 @@ Create service instance of process visibility and assign process visibility role
 
 ### Integrate Process Visibility UI Applications in SAP Fiori Launchpad 
 1. Import Project [FLPConfigForPVS](../../releases/download/1.0.0/FLPConfigForPVS.zip) into SAP WebIDE - for more details see [Import Project](https://help.sap.com/viewer/825270ffffe74d9f988a0f0066ad59f0/CF/en-US/e39599b757c541beb8e50b454f8d2431.html).
-2. Build and deploy it into your space - for more details see [Packaging and Deploying Applicaitons](https://help.sap.com/viewer/825270ffffe74d9f988a0f0066ad59f0/CF/en-US/1b0a7a0938944c7fac978d4b8e23a63f.html).
+2. Build and deploy it into your space - for more details see [Packaging and Deploying Applications](https://help.sap.com/viewer/825270ffffe74d9f988a0f0066ad59f0/CF/en-US/1b0a7a0938944c7fac978d4b8e23a63f.html).
 
 ### Gain Insights into Lead to Cash Sample Scenario
 1. Import the [Lead to Cash Events](../../releases/download/1.0.0/LeadToCashEvents.json) into the Event Acquisition Application - for more details see [Import Events](https://help.sap.com/viewer/62fd39fa3eae4046b23dba285e84bfd4/Cloud/en-US/72a054799c6f41e08b5445b950ac512d.html).
-2. Import the [Lead to Cash Scenario Model](../../releases/download/1.0.0/LeadToCash.zip) into the Configure Business Scenario Applicaiton - for more details see [Import Business Scenario](https://help.sap.com/viewer/98815fb01f144355b2e8ceab5a338330/Cloud/en-US/879735a2cbc244578767d32610c8c141.html).
+2. Import the [Lead to Cash Scenario Model](../../releases/download/1.0.0/LeadToCash.zip) into the Configure Business Scenario Application - for more details see [Import Business Scenario](https://help.sap.com/viewer/98815fb01f144355b2e8ceab5a338330/Cloud/en-US/879735a2cbc244578767d32610c8c141.html).
 3. Activate Scenario using the Business Scenario Configuration Application.
 
 ### Gain insights into Design to Operate Sample Scenario 
