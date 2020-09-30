@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: cloud-process-visibility
-Upstream-Contact: tarun.kamal.khiani@sap.com
+Upstream-Contact: Tarun Kamal Khiani <tarun.kamal.khiani@sap.com>
 Source: https://github.com/SAP-samples/cloud-process-visibility
 Disclaimer: The code in this project may include calls to APIs (“API Calls”) of
  SAP or third-party products or services developed outside of this project
