@@ -1,4 +1,5 @@
 # SAP Cloud Platform Process Visibility Samples
+[![REUSE status](https://api.reuse.software/info/github.com/SAP-samples/cloud-process-visibility)](https://api.reuse.software/info/github.com/SAP-samples/cloud-process-visibility)
 
 ## Description
 This project contains sample code and sample scenarios that would enable you to learn more about and gain instant value using SAP Cloud Platform Process Visibility. This project is referenced by tutorials and blogs.
