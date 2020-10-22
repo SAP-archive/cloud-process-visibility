@@ -40,4 +40,4 @@ Create service instance of process visibility and assign process visibility role
 [Post questions on SAP Community](https://answers.sap.com/questions/ask.html) and specify the primary tag as SAP Cloud Platform Process Visibility.
 
 ## License
-Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt).
+Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt).
