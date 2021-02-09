@@ -1,16 +1,16 @@
-# SAP Cloud Platform Process Visibility Samples
+# SAP Process Visibility service Samples
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cloud-process-visibility)](https://api.reuse.software/info/github.com/SAP-samples/cloud-process-visibility)
 
 ## Description
-This project contains sample code and sample scenarios that would enable you to learn more about and gain instant value using SAP Cloud Platform Process Visibility. This project is referenced by tutorials and blogs.
+This project contains sample code and sample scenarios that would enable you to learn more about and gain instant value using Process Visibility. This project is referenced by tutorials and blogs.
 
 The project contains:
-* Sample Code to integrate SAP Cloud Platform UI Applications into SAP Fiori Launch Pad
+* Sample Code to integrate UI Applications into SAP Fiori Launch Pad
 * Sample Scenarios (model and events) that can be imported into the Configure Business Scenario and Event Acquisition Application in Process Visibility 
 
 
 ## Requirements
-The following SAP Cloud Platform Services are needed to run the project:
+The following SAP Business Technology Platform Services are needed to run the project:
 * Process Visibility
 * Portal
 * Application Runtime
@@ -37,7 +37,7 @@ Create service instance of process visibility and assign process visibility role
 3. Activate Scenario using the Business Scenario Configuration Application.
 
 ## How to get support 
-[Post questions on SAP Community](https://answers.sap.com/questions/ask.html) and specify the primary tag as SAP Cloud Platform Process Visibility.
+[Post questions on SAP Community](https://answers.sap.com/questions/ask.html) and specify the primary tag as SAP Process Visibility service.
 
 ## License
 Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt).
